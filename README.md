@@ -19,7 +19,7 @@ This is a **React-based KML File Viewer** that allows users to upload `.kml` fil
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/kml-file-viewer.git
+https://github.com/rishi-logic-design/kml-file-viewer
 cd kml-file-viewer
 ```
 
@@ -111,9 +111,6 @@ To deploy the project on **Vercel** or **Netlify**, follow these steps:
    ```sh
    npm run build
    ```
-2. Deploy the `dist` folder to your preferred hosting platform.
-
----
 
 ## Contributing
 
@@ -129,7 +126,7 @@ This project is open-source and available under the **MIT License**.
 
 ## Author
 
-Developed by **[Your Name]**
+Developed by **[Rishi]**
 
 ---
 
